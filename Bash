@@ -1,0 +1,2 @@
+cd .silence
+echo "The experiment is now in your terminal’s memory."
